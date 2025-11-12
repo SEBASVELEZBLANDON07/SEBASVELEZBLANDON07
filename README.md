@@ -15,7 +15,7 @@
  Mi enfoque está en la innovación, la escalabilidad y el aprendizaje constante.  
  
 📧 [blandonvelezsebastian@gmail.com](mailto:blandonvelezsebastian@gmail.com)  
-🌐 [GitHub]([https://github.com/tu-usuario](https://github.com/SEBASVELEZBLANDON07)) • [LinkedIn]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/sebastian-velez-blandon-8676172b7/))  
+🌐 [GitHub](https://github.com/SEBASVELEZBLANDON07) • [LinkedIn](https://www.linkedin.com/in/sebastian-velez-blandon-8676172b7/)  
 
 ---
 
