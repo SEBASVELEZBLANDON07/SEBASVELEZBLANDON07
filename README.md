@@ -3,7 +3,7 @@
 <h3 align="center">Ingeniero de Software | Desarrollador Full Stack | Analista </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 ---
